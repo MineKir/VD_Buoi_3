@@ -112,12 +112,11 @@ img{
 .flex small:nth-child(4){
     height: 10px;
     width: 10px;
-    animation-name: ani_dot2;
+    animation-name: ani_dot3;
     animation-delay: 2s;
     animation-iteration-count: infinite;
-    animation-duration: 6s;
+    animation-duration: 8s;
     margin-left: 50px;
-    
 }
 @keyframes ani_dot1{
     0%{transform: translate(0px , 0px);

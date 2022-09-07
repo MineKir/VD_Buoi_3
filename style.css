@@ -116,7 +116,7 @@ img{
     animation-delay: 2s;
     animation-iteration-count: infinite;
     animation-duration: 8s;
-    margin-left: 50px;
+    margin-left: 60px;
 }
 @keyframes ani_dot1{
     0%{transform: translate(0px , 0px);

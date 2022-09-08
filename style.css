@@ -81,8 +81,8 @@ img{
     }
 }
 .flex .plaint{
-    width: 8%;
-    height: auto;
+    width: auto;
+    height: 130px;
 }
 .flex span small{
     position: absolute;

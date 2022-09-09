@@ -213,7 +213,7 @@ img{
     font-size: 18px;
     color: black;
 }
-.text button{
+.text #reload{
     display: inline-block;
     padding: 10px 35px;
     border-radius: 6px;
@@ -224,6 +224,6 @@ img{
     text-transform: uppercase;
     transition: 0.25s;
 }
-.text button:hover{
+.text #reload:hover{
    background:rgb(68, 66, 66);
 }
